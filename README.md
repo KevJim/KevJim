@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin Jiménez</h1>
 <h3 align="center">A frontend developer from Mexico</h3>
 
-- 🔭 I’m currently working on **dVolada**
-
 - 🌱 I’m currently learning **React Native and NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://kevjim.github.io/](https://kevjim.github.io/)
